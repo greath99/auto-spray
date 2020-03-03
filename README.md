@@ -6,6 +6,10 @@ arduino, raspberry-pi, lattepanda와 같은 오픈소스 하드웨어를 활용�
 
 ![alt text](doc/autospay-circuit-arduino.png "arduino circuit image")
 
+## 기여자
+  * 바이커 (greath99@gmail.com)
+  * 라파엘 (avatar196kc@naver.com)
+
 ## 설치 방법
 
 ###  목차
