@@ -2,11 +2,11 @@
 
 arduino, raspberry-pi, lattepanda와 같은 오픈소스 하드웨어를 활용한 소독제 자동 분사 장치
 
-[작동 확인 in YouTube](https://youtu.be/r1yaet-WIyA)
+* [작동 확인 (YouTube)](https://youtu.be/r1yaet-WIyA)
 
 ![alt text](doc/autospay-circuit-arduino.png "arduino circuit image")
 
-## 기여자
+## 제작
   * 바이커 (greath99@gmail.com)
   * 라파엘 (avatar196kc@naver.com)
 
@@ -27,8 +27,12 @@ arduino, raspberry-pi, lattepanda와 같은 오픈소스 하드웨어를 활용�
 
 2. __노즐 크기__
 
-    노즐은 분사량을 고려하여 4ø 또는 5ø로 준비한다. (5ø 권장)
+    노즐은 분사량을 고려하여 0.4ø 또는 0.5ø로 준비한다. (5ø 권장)
+    
     각 구경에 따른 분사량은 아래 그림을 참조한다.
+    
+    * 0.5ø 노즐 : 개당 약 1,000원
+    
     ![alt text](doc/nozzle-diff.png "nozzle difference image")
 
 3. __우레탄 튜브 굵기 및 길이__
@@ -36,15 +40,18 @@ arduino, raspberry-pi, lattepanda와 같은 오픈소스 하드웨어를 활용�
     노즐 위치와 하드웨어 배치 위치를 고려하여 우레탄 튜브길이를 계산한다.
     
     설치 예시에서는 노즐 사이에 외경 6ø를 사용하였다.
+    
+    * 6ø 우레탄 튜브 : 1m 당 약 1,000원
 
 4. __하드웨어 부품 준비__
 
-    * 푸시 버튼 1개
-    * 10K 저항 1개
-    * 12v 워터 펌프 1개
-    * 5v 릴레이 1개
-    * 피에조 스피커 1개
-    * 인체감지 센서 1개
+    * 아두이노 R3 우노 : 호환 제품. 개당 약 7,000원
+    * 푸시 버튼 1개 : 개당 약 100원
+    * 10K 막대 저항 1개 : 개당 약 4원
+    * 12v 워터 펌프 1개 : 개당 약 9,800원
+    * 5v 릴레이 1개 : 개당 약 1,600원
+    * 피에조 수동 압전 부저 1개 : 개당 약 400원
+    * 인체감지 센서 1개 : 개당 약 1,300원
 
 ### 2. 오픈소스 하드웨어 준비
 
